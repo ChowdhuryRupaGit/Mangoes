@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SOE6C7YBgD0WGGjKg7jptRs6E6c01QmVYCnBO4vIYiE=",
+  "Source": "Mangoes.Services.OrderAPI",
+  "BasePath": "_content/Mangoes.Services.OrderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

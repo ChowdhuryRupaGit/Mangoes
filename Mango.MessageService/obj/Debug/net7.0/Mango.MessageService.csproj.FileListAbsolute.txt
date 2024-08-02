@@ -1,0 +1,12 @@
+C:\Users\IamAweSome\source\repos\Mangoes\Mango.MessageService\bin\Debug\net7.0\Mango.MessageService.deps.json
+C:\Users\IamAweSome\source\repos\Mangoes\Mango.MessageService\bin\Debug\net7.0\Mango.MessageService.dll
+C:\Users\IamAweSome\source\repos\Mangoes\Mango.MessageService\bin\Debug\net7.0\Mango.MessageService.pdb
+C:\Users\IamAweSome\source\repos\Mangoes\Mango.MessageService\obj\Debug\net7.0\Mango.MessageService.csproj.AssemblyReference.cache
+C:\Users\IamAweSome\source\repos\Mangoes\Mango.MessageService\obj\Debug\net7.0\Mango.MessageService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IamAweSome\source\repos\Mangoes\Mango.MessageService\obj\Debug\net7.0\Mango.MessageService.AssemblyInfoInputs.cache
+C:\Users\IamAweSome\source\repos\Mangoes\Mango.MessageService\obj\Debug\net7.0\Mango.MessageService.AssemblyInfo.cs
+C:\Users\IamAweSome\source\repos\Mangoes\Mango.MessageService\obj\Debug\net7.0\Mango.MessageService.csproj.CoreCompileInputs.cache
+C:\Users\IamAweSome\source\repos\Mangoes\Mango.MessageService\obj\Debug\net7.0\Mango.MessageService.dll
+C:\Users\IamAweSome\source\repos\Mangoes\Mango.MessageService\obj\Debug\net7.0\refint\Mango.MessageService.dll
+C:\Users\IamAweSome\source\repos\Mangoes\Mango.MessageService\obj\Debug\net7.0\Mango.MessageService.pdb
+C:\Users\IamAweSome\source\repos\Mangoes\Mango.MessageService\obj\Debug\net7.0\ref\Mango.MessageService.dll

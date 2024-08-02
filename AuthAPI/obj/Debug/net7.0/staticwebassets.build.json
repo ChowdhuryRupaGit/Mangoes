@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cRjHeu4x3o1Ffp8nPmrOe/ocbbLc7RU+req1FMnslVY=",
+  "Source": "Mangoes.Services.AuthAPI",
+  "BasePath": "_content/Mangoes.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
